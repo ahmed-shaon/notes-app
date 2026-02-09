@@ -38,7 +38,7 @@ A simple and elegant web-based notes application built with vanilla JavaScript, 
 
 ## Live Demo
 
-**[Try the Notes App Demo](https://your-demo-link-here.com)**
+**[Try the Notes App Demo](https://ahmed-shaon.github.io/notes-app/)**
 
 For now, follow the "How to Run" instructions above to run the app locally.
 
